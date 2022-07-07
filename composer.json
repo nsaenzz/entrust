@@ -23,9 +23,9 @@
     ],
     "require": {
         "php": ">=8.0",
-        "illuminate/console": "~9.19",
-        "illuminate/support": "~9.19",
-        "illuminate/cache": "~9.19"
+        "illuminate/console": "9.*",,
+        "illuminate/support": "9.*",
+        "illuminate/cache": "9.*"
     },
     "require-dev": {
         "phpunit/phpunit": "~9.5",
